@@ -1,0 +1,7 @@
+mrh1377,1377,Mohammadreza_hendiani,mrh137777@gmail.com,0,C:\Users\Administrator\Documents\IMAGE.jpg,0_0_2.6521607757575758E7-0_0
+sasuke,1377,Sasuke_uchiha,sasuke@gmail.com,0,C:\Users\Administrator\Documents\sasuke.png,0_0_0.01639344262295082-0_0
+naruto,1377,Naruto_uzumaki,naruto@gmail.com,0,C:\Users\Administrator\Documents\naruto.jpg,0_0_0.012658227848101266-0_0
+sakura,1377,Sakura_haruno,sakura@gmail.com,1,C:\Users\Administrator\Documents\sakura.jpg,0_55-6_0
+hinata,1377,hinata_hyuga,hinata@gmail.com,1,C:\Users\Administrator\Documents\hinata.jpg,77_0-6_0
+user,1377,user,user@gmail.com,0,C:\Users\Administrator\eclipse-workspace\BomberMan\src\ir\ac\guilan\ce\ap97\Hendiani\Gui\Icon\Barkeep.png,565_0-0_77
+no,1377,NARUTO_UZUMAKI,you@gmail.com,0,C:\Users\Administrator\Documents\naruto.jpg,0_0-0_0
